@@ -1,22 +1,21 @@
-<img src="https://trisya.com/myimg/child/Website%20Design.gif"  width="100%" alt="banner">
+<img src="https://i.imgur.com/IvmfFGA.png"  width="100%" alt="banner">
 <h1 align="center">Hi 👋, I'm Bablu Verma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="300px" alt="Coding">
 
-
-- 🔭 I’m currently working on **Woost App**
+<img  align="right"  src="https://static.vecteezy.com/system/resources/previews/011/153/363/original/3d-web-developer-working-on-project-illustration-png.png"  width="300" alt="banner">
+- 🔭 I’m currently working on **Woost Application**
 
 - 🌱 I’m currently learning **MACHINE LEARNING ENGINEER**
 
-- 👯 I’m looking to collaborate on **Web App**
+- 👯 I’m looking to collaborate on **Web & Apps**
 
 - 👨‍💻 All of my projects are available at [https://babluverma.netlify.app/](https://babluverma.netlify.app/)
 
-- 💬 Ask me about **React.js, Front-end, Web Developemnt**
+- 💬 Ask me about **React.js, Front-end, Web Developemnt, little bit React Native**
 
-- 📫 How to reach me **jbabluverma@gmail.com**
+- 📫 How to reach me [**linkedin.com/in/babluverma/**](https://www.linkedin.com/in/babluverma/)
 
-- ⚡ Fun fact **I think I am Game Player**
+- ⚡ Fun fact **I think I am Online Game Player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
